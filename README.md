@@ -1,1 +1,1 @@
-<img src="images/aceward_socials_image.png">
+<img src="resources/aceward_socials_image.png">
