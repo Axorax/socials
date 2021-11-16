@@ -1,1 +1,1 @@
-<img src="resources/usernames.png">
+<img src="resources/social_usernames.png">
