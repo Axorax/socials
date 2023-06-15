@@ -25,6 +25,7 @@ Github repository to store all of my social media links x]
 * Discord - [Axorax#1305](https://discordapp.com/users/941325434644226048)
 * Discord Server - [nKUFghjXQu](https://discord.com/invite/nKUFghjXQu)
 * Dribbble - [axorax](https://dribbble.com/Axorax)
+* dsc.bio - [axorax](https://dsc.bio/axorax)
 * Everlink.tools - [axorax](https://everlink.tools/axorax)
 * Facebook - [axoraxdev](https://www.facebook.com/axoraxdev/)
 * Facebook Group - [axorax](https://www.facebook.com/groups/axorax/)
