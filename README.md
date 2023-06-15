@@ -60,7 +60,7 @@ Github repository to store all of my social media links x]
 * Stackoverflow - [axorax](https://stackoverflow.com/users/16834247/axorax)
 * Stepik - [Aayan Abdullah](https://stepik.org/users/402539421)
 * Taplink - [axorax](https://axorax.taplink.ws)
-* Telegram - *private*
+* Telegram - [axorax](http://t.me/axorax)
 * TikTok - [axoraxdev](https://www.tiktok.com/@axoraxdev)
 * Tumblr - [axorax](https://axorax.tumblr.com/)
 * Warriorjs - [axorax](https://warriorjs.com/axorax)
