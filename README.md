@@ -22,7 +22,7 @@ Github repository to store all of my social media links x]
 * Codecademy - [axoraxcodes](https://www.codecademy.com/profiles/axoraxcodes)
 * Codepen - [axorax](https://codepen.io/axorax)
 * Dev.to - [axorax](https://dev.to/axorax)
-* Discord - [Axorax#1305](https://discordapp.com/users/941325434644226048)
+* Discord - [Axorax#1305 / axorax_](https://discordapp.com/users/941325434644226048)
 * Discord Server - [nKUFghjXQu](https://discord.com/invite/nKUFghjXQu)
 * Dribbble - [axorax](https://dribbble.com/Axorax)
 * dsc.bio - [axorax](https://dsc.bio/axorax)
