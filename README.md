@@ -21,6 +21,7 @@ Github repository to store all of my social media links x]
 * Chess - [axorax](https://www.chess.com/member/axorax)
 * Codecademy - [axoraxcodes](https://www.codecademy.com/profiles/axoraxcodes)
 * Codepen - [axorax](https://codepen.io/axorax)
+* Daily.dev - [axo](https://app.daily.dev/axo)
 * Dev.to - [axorax](https://dev.to/axorax)
 * Discord - [Axorax#1305 / axorax_](https://discordapp.com/users/941325434644226048)
 * Discord Server - [nKUFghjXQu](https://discord.com/invite/nKUFghjXQu)
