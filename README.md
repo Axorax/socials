@@ -17,6 +17,7 @@ Github repository to store all of my social media links x]
 
 ## All of my social usernames:
 * BitBucket - [axorax](https://bitbucket.org/axorax/)
+* Lottie Files - [axorax](https://lottiefiles.com/axorax)
 * Buymeacoffee - [axorax](https://www.buymeacoffee.com/axorax)
 * Chess - [axorax](https://www.chess.com/member/axorax)
 * Codecademy - [axoraxcodes](https://www.codecademy.com/profiles/axoraxcodes)
