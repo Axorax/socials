@@ -53,7 +53,6 @@ Github repository to store all of my social media links x]
 * Quora - [axorax](https://www.quora.com/profile/Axorax)
 * Reddit - [axorax](https://www.reddit.com/user/axorax)
 * Replit - [axorax](https://replit.com/@Axorax)
-* Revolt Server - [Axorax's Hangout](https://app.revolt.chat/invite/01GVK81S6KZJF5E0EVDGD75AHH) (Recommended to join my Discord instead)
 * Signal - *private
 * Snapchat - [axorax1](https://www.snapchat.com/add/axorax1)
 * Solo.to - [axorax](https://solo.to/axorax)
