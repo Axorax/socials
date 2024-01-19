@@ -53,7 +53,7 @@ Github repository to store all of my social media links x]
 * Quora - [axorax](https://www.quora.com/profile/Axorax)
 * Reddit - [axorax](https://www.reddit.com/user/axorax)
 * Replit - [axorax](https://replit.com/@Axorax)
-* Signal - *private
+* Signal - *private*
 * Snapchat - [axorax1](https://www.snapchat.com/add/axorax1)
 * Solo.to - [axorax](https://solo.to/axorax)
 * Sololearn - [Aayan Abdullah](https://www.sololearn.com/profile/27058316)
@@ -100,6 +100,6 @@ Coin Imp - 0xaxorax12axorax12axorax12axorax12axorax12
 
 <img src="./assets//images/matrix-qr.png" />
 
-* This GitHub Repositories QR Code
+* QR Code for this repository
 
 <img src="./assets//images/github-repo-qr.png" width="250" height="250" />
