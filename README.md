@@ -74,7 +74,6 @@ Github repository to store all of my social media links x]
 * Archive.org - [axorax495](https://archive.org/details/@axorax495)
 * Bio.fm - *private*
 * Npmjs - [axoraxdev](https://www.npmjs.com/~axoraxdev)
-* Zili - [axorax](https://h5.zilivideo.com/h5/user/aa9696fdcc30a328)
 * Zink - [axorax](https://zink.tips/axorax)
 * JSFiddle - [axorax](https://jsfiddle.net/user/axorax)
 * RapidAPI - [Axorax](https://rapidapi.com/user/Axorax)
