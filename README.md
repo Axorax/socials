@@ -24,6 +24,7 @@ Github repository to store all of my social media links x]
 * Codepen - [axorax](https://codepen.io/axorax)
 * Daily.dev - [axorax](https://app.daily.dev/axorax)
 * Dev.to - [axorax](https://dev.to/axorax)
+* LinkedIN - [axorax](https://www.linkedin.com/in/axorax/)
 * Discord - [axorax](https://discordapp.com/users/941325434644226048)
 * Discord Server - [discord.gg/nKUFghjXQu](https://discord.com/invite/nKUFghjXQu)
 * Dribbble - [axorax](https://dribbble.com/Axorax)
