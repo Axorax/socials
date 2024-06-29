@@ -20,6 +20,7 @@ Github repository to store all of my social media links x]
 * Lottie Files - [axorax](https://lottiefiles.com/axorax)
 * Buymeacoffee - [axorax](https://www.buymeacoffee.com/axorax)
 * Behance - [axorax_](https://be.net/axorax_)
+* Vocal Media - [axorax](https://vocal.media/authors/axorax)
 * Chess - [axorax](https://www.chess.com/member/axorax)
 * Codecademy - [axoraxcodes](https://www.codecademy.com/profiles/axoraxcodes)
 * Codepen - [axorax](https://codepen.io/axorax)
