@@ -60,6 +60,7 @@ Github repository to store all of my social media links x]
 * Replit - [axorax](https://replit.com/@Axorax)
 * Signal - *private*
 * Snapchat - [axorax1](https://www.snapchat.com/add/axorax1)
+* Deviantart - [axorax1](https://www.deviantart.com/axorax1)
 * Solo.to - [axorax](https://solo.to/axorax)
 * Sololearn - [Aayan Abdullah](https://www.sololearn.com/profile/27058316)
 * Stack Exchange - [axorax](https://stackexchange.com/users/22661180/axorax)
