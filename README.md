@@ -23,6 +23,7 @@ Github repository to store all of my social media links x]
 * Chess - [axorax](https://www.chess.com/member/axorax)
 * Codecademy - [axoraxcodes](https://www.codecademy.com/profiles/axoraxcodes)
 * Codepen - [axorax](https://codepen.io/axorax)
+* Chocolatey - [axorax](https://community.chocolatey.org/profiles/axorax)
 * Daily.dev - [axorax](https://app.daily.dev/axorax)
 * Dev.to - [axorax](https://dev.to/axorax)
 * LinkedIN - [axorax](https://www.linkedin.com/in/axorax/)
