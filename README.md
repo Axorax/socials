@@ -78,6 +78,8 @@ Github repository to store all of my social media links x]
 * Wordpress - [axorax.wordpress.com](https://axorax.wordpress.com/)
 * YouTube - [axorax](https://www.youtube.com/c/Axorax)
 * YouTube Channel ID - [UChNE29WeA7wbW5VC4JVb5Ag](https://www.youtube.com/channel/UChNE29WeA7wbW5VC4JVb5Ag)
+* Rumble - [axorax](https://rumble.com/user/axorax)
+* Odysee - [axorax](https://odysee.com/@axorax)
 * Archive.org - [axorax495](https://archive.org/details/@axorax495)
 * Bio.fm - *private*
 * Npmjs - [axoraxdev](https://www.npmjs.com/~axoraxdev)
