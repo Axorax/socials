@@ -19,6 +19,7 @@ Github repository to store all of my social media links x]
 * Audio.com - [axorax](https://audio.com/axorax)
 * BitBucket - [axorax](https://bitbucket.org/axorax/)
 * Lottie Files - [axorax](https://lottiefiles.com/axorax)
+* Minds - [axorax](https://www.minds.com/axorax/)
 * Bento.me - [axorax](https://bento.me/axorax)
 * Buymeacoffee - [axorax](https://www.buymeacoffee.com/axorax)
 * Product Hunt - [axorax](https://www.producthunt.com/@axorax)
