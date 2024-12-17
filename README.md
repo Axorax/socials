@@ -34,6 +34,7 @@ Github repository to store all of my social media links x]
 * LinkedIN - [axorax](https://www.linkedin.com/in/axorax/)
 * Discord - [axorax](https://discordapp.com/users/941325434644226048)
 * Discord Server - [discord.gg/nKUFghjXQu](https://discord.com/invite/nKUFghjXQu)
+* Digg - [axorax](https://digg.com/@axorax)
 * Dribbble - [axorax](https://dribbble.com/Axorax)
 * dsc.bio - [axorax](https://dsc.bio/axorax)
 * Everlink.tools - [axorax](https://everlink.tools/axorax)
