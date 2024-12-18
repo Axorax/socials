@@ -59,6 +59,7 @@ Github repository to store all of my social media links x]
 * Matrix - [axorax](https://matrix.to/#/@axorax:matrix.org)
 * Matrix Room - [axorax:matrix.org](https://matrix.to/#/#axorax:matrix.org)
 * Matrix Space - [axorax-space:matrix.org](https://matrix.to/#/#axorax-space:matrix.org)
+* Medal.tv - [Axorax](https://medal.tv/u/Axorax)
 * Medium - [axorax](https://axorax.medium.com/)
 * Patreon - [axorax](https://www.patreon.com/axorax)
 * Pinterest - [axoraxdev](https://www.pinterest.com/axoraxdev/)
