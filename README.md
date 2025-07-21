@@ -47,7 +47,7 @@ Github repository to store all of my social media links x]
 * Gravatar - [axorax](https://en.gravatar.com/axorax)
 * Hashnode - [axorax](https://hashnode.com/@axorax)
 * Hashnode Blog - [axorax.hashnode.dev](https://axorax.hashnode.dev/)
-* Instagram - [axorax_](https://www.instagram.com/axorax_/)
+* Instagram - [axoraxlol](https://www.instagram.com/axoraxlol/)
 * Roblox - @axoraxdev
 * read.cv - [axorax](https://read.cv/axorax)
 * Itch.io - [axorax](https://axorax.itch.io/)
